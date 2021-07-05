@@ -1,0 +1,26 @@
+{
+  "FTX": {
+    "api_url": "https://ftx.com/api",
+    "websocket_url": "wss://ftx.com/ws/"
+  },
+    "BINANCE_SPOT": {
+    "api_url": "https://api.binance.com",
+    "websocket_url": "wss://stream.binance.com/ws"
+  },
+    "BINANCE_FUTURE": {
+    "api_url": " https://fapi.binance.com",
+    "websocket_url": "wss://fstream.binance.com/ws"
+  },
+    "COINBASE": {
+    "api_url": "https://api.pro.coinbase.com",
+    "websocket_url": "wss://ws-feed.pro.coinbase.com"
+  },
+  "ACDX": {
+    "api_url": "https://api.acdx.io/v1",
+    "websocket_url": "wss://api.acdx.io/v1/"
+  },
+  "OKEX": {
+    "api_url": "https://aws.okex.com/",
+    "websocket_url": "wss://real.okex.com:8443/ws/v3"
+  }
+}
